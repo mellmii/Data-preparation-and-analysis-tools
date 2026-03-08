@@ -5,7 +5,7 @@ env/
 __pycache__/
 .ipynb_checkpoints/
 
-# Датасети та згенеровані файли (щоб не засмічувати репозиторій)
+# Датасети та згенеровані файли 
 household_power_consumption.txt
 data/
 vhi_data/
