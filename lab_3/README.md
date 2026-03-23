@@ -55,6 +55,8 @@ pip install -r requirements.txt
 ```
 Підготовка даних:
 Завантажте датасет з професійними матчами Ліги Легенд та розмістіть файл league_of_legends_professional_matches.csv у корені теки лабораторної (цей файл ігнорується Git для економії місця).
+Завантажити датасет з професійними матчами Ліги Легенд можна за цим посиланням:  
+    [League of Legends Professional Matches на Kaggle](https://www.kaggle.com/datasets/tekpixo/league-of-legends-professional-matches)
 
 Запустіть Jupyter Notebook:
 
