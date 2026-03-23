@@ -1,0 +1,13 @@
+venv/
+env/
+
+# Кеш Python та Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Датасети та згенеровані файли 
+household_power_consumption.txt
+data/
+vhi_data/
+*.csv
+
