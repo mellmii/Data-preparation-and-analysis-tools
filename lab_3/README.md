@@ -40,14 +40,7 @@ python -m venv venv
 ```
 source venv/bin/activate
 ```
-Створіть файл requirements.txt у кореневій теці та додайте до нього лише необхідні для роботи бібліотеки:
-```
-Plaintext
-pandas
-matplotlib
-seaborn
-jupyter
-```
+
 Встановіть залежності проєкту:
 
 ```
