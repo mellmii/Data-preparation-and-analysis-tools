@@ -1,0 +1,20 @@
+# Віртуальне середовище
+venv/
+env/
+
+# Кеш Python та Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Системні файли ОС
+.DS_Store
+Thumbs.db
+
+# Налаштування редакторів (VS Code, PyCharm тощо)
+.vscode/
+.idea/
+
+# Файли з даними (щоб не пушити великі датасети)
+*.csv
+*.txt
