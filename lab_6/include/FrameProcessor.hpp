@@ -4,8 +4,8 @@
 
 class FrameProcessor {
 public:
-    static int brightnessValue; // Статичне поле для слайдера
-    static std::vector<cv::Point> drawnPoints; // Точки для малювання мишкою
+    static int brightnessValue; 
+    static std::vector<cv::Point> drawnPoints; 
 
     void process(cv::Mat& frame, ProcessingMode mode);
 };
