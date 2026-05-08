@@ -1,0 +1,16 @@
+# Віртуальне середовище
+venv/
+env/
+.venv/
+
+# Кеш Python та Jupyter
+__pycache__/
+*.pyc
+
+# Системні файли ОС
+.DS_Store
+Thumbs.db
+
+# Налаштування редакторів (VS Code, PyCharm тощо)
+.vscode/
+.idea/
